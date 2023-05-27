@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+} 
+
+/*--------------------------------CABEÇALHO--------------------------*/
+
+.container-principal{
+    background-color: #2f86d6;
+}
+
+.cabecalho{
+    max-width: 1224px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 35px 0;
+    position: relative;
+}
+
+.conteudo-cabecalho{
+    position: relative;
+} 
+
+.conteudo-cabecalho div{
+    position: absolute;
+    top: 0;
+    left: 95px;
+}
+
+.conteudo-cabecalho div h1{
+    font-size: 32px;
+    color: #000;
+}
+
+.conteudo-cabecalho div p{
+    font-size: 16px;
+    color: #fff;
+}
+
+.conteudo-cabecalho img{
+    width: 80px;
+}
+
+.cabecalho nav{
+    position: absolute;
+    right: 0;
+    top: 65px;
+}
+
+.cabecalho nav a{
+    margin: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+.cabecalho nav a:hover{
+    border-bottom: 2px solid #fff;
+}
+
+/*---------------------------------SEÇÃO TABELA---------------------------------*/
+
+table{
+    max-width: 1224px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 100px 0;
+    text-align: center;
+    border-spacing: 3px;
+}
+
+table span{
+    font-weight: bold;
+}
+
+th p{
+    color: #a8a4a4;
+    font-weight: 600;
+}
+
+.primeira-linha, td{
+    padding: 20px;
+    box-shadow: 2px 2px #f1f3f7;
+}
+
+.primeira-coluna, .primeira-linha{
+    background-color: #f1f3f7;
+}
+
+.primeira-coluna{
+    text-align: left;
+}
+
+.bola{
+    width: 15px;
+    height: 15px;
+    margin: 0 auto;
+    background-color: #2f86d6;
+    border-radius: 10px;
+}
+
+/*----------------------------------SEÇÃO DIREITOS-------------------------------*/
+
+.container-contato-preco{
+    background-color: #2f86d6;
+    padding: 30px 0;
+}
+
+.contato-preco{
+    position: relative;
+    max-width: 824px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.contato-preco img{
+    width: 80px;
+}
+
+.texto-logo{
+    position: absolute;
+    top: 0px;
+    left: 350px;
+}
+
+.texto-logo p{
+    color: #fff;
+    font-weight: bold;
+}
+
+.paragrafo{
+    text-align: center;
+    font-weight: normal;
+    color: #fff;
+}
+
+.paragrafo a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.contato-logo{
+    margin: 0 auto 20px;
+    width: 300px;
+}
+
+/*-----------------------------------------SEÇÃO RODAPÉ--------------------------------*/
+
+footer{
+    padding: 20px 0;
+    background-color: #f1f3f7;
+}
+
+.rodape-preco{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rodape-preco p{
+    font-weight: bold;
+}
+
+.rodape-preco span{
+    color: #2f86d6;
+}
