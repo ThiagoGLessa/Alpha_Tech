@@ -161,15 +161,15 @@ footer{
     background-color: #f1f3f7;
 }
 
-.rodape-preco{
+.rodape{
     margin: 0 auto;
     text-align: center;
 }
 
-.rodape-preco p{
+.rodape p{
     font-weight: bold;
 }
 
-.rodape-preco span{
+.rodape span{
     color: #2f86d6;
 }
