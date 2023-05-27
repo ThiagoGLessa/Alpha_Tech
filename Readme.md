@@ -1,6 +1,6 @@
 Olá, bem-vindo ao projeto AlphaTech!
 
-Este é um dos projetos feitos com os ensinamentos de HTML e CSS adquiridos pela DevMedia. O projeto não possui finalidade lucrativa, foi feito somente para por em prática o estudo!
+Este é um dos projetos feitos com os ensinamentos de HTML e CSS adquiridos pela DevMedia. Este projeto NÃO possui finalidade lucrativa, feito somente para colocar em prática o estudo!
 
 O projeto é bem simples, ele tem como finalidade apresentar um site de hospedagem web, contendo informações sobre o serviço, vantagens de cada plano, e seus preços. O projeto ainda será refatorado, aplicando uma responsividade.
 
@@ -10,7 +10,7 @@ No topo da página possui uma nav bar com links nos quais redirecionam para part
     <img src= "assets/Secoes_pagina/Nav_bar.png">
 </div>
 
-Descendo um pouco, há uma seção insentivando o uso da hospedagem deles e logo abaixo uma propaganda com um outro link que redireciona para outra página com preços dos planos:
+Descendo um pouco, há uma seção incentivando o uso da hospedagem deles e logo abaixo uma propaganda com outro link que redireciona para outra página com preços dos planos:
 
 <div>
     <img src= "assets/Secoes_pagina/Secao_propaganda_1.png">
@@ -28,13 +28,13 @@ Em seguida há uma seção com uma tabela dos planos, contendo plano pessoal, pr
     <img src= "assets/Secoes_pagina/Secao_planos.png">
 </div>
 
-A próxima seção apresenta uma segunda propaganda com um outro link que redireciona para outra página com preços dos planos:
+A próxima seção apresenta uma segunda propaganda com outro link que redireciona para outra página com preços dos planos:
 
 <div>
     <img src= "assets/Secoes_pagina/Secao_propaganda_2.png">
 </div>
 
-E por fim da primeira página, há a última seção, possuindo um card com o contato da empresa:
+E por fim, há a última seção, possuindo um card com o contato da empresa:
 
 <div>
     <img src= "assets/Secoes_pagina/Secao_contatos.png">
