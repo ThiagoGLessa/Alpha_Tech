@@ -7,9 +7,11 @@ O projeto é bem simples, ele tem como finalidade apresentar um site de hospedag
 
 Abaixo temos um vídeo com o funcionamento das páginas:
 
-<video src="assets/videos/Funcionamento_site.mp4" controls>
-    Seu navegador não suporta o vídeo, siga para as imagens abaixo!
-</video>
+<div>
+    <video src="assets/videos/Funcionamento_site.mp4" controls>
+        Seu navegador não suporta o vídeo, siga para as imagens abaixo!
+    </video>
+</div>
 
 No topo da página possui uma nav bar com links nos quais redirecionam para partes da própria página, com exceção do link "PREÇOS", que lhe redireciona para outra página.
 
@@ -49,7 +51,7 @@ E por fim da primeira página, há a última seção, possuindo um card com o co
 
 
 
-----------------------------------------------------------------------------SEGUNDA PÁGINA DO PROJETO-----------------------------------------------------------------------------
+----------------------------------------------SEGUNDA PÁGINA DO PROJETO-----------------------------------------
 
 
 
