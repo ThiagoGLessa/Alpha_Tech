@@ -4,15 +4,6 @@ Este é um dos projetos feitos com os ensinamentos de HTML e CSS adquiridos pela
 
 O projeto é bem simples, ele tem como finalidade apresentar um site de hospedagem web, contendo informações sobre o serviço, vantagens de cada plano, e seus preços. O projeto ainda será refatorado, aplicando uma responsividade.
 
-
-Abaixo temos um vídeo com o funcionamento das páginas:
-
-<div>
-    <video src="assets/videos/Funcionamento_site.mp4" controls>
-        Seu navegador não suporta o vídeo, siga para as imagens abaixo!
-    </video>
-</div>
-
 No topo da página possui uma nav bar com links nos quais redirecionam para partes da própria página, com exceção do link "PREÇOS", que lhe redireciona para outra página.
 
 <div>
